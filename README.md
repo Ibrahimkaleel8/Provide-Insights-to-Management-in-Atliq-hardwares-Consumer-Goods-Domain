@@ -1,0 +1,1 @@
+# Provide-Insights-to-Management-in-Atliq-hardwares-Consumer-Goods-Domain
