@@ -12,5 +12,7 @@ problem statement: Atliq hardware management noticed that they do not get enough
 
 Tools used in this project:
 1.MySQL - for querying the database.
+
 2.tableau - for visualising the data.
+
 3.Canva - for presenting the insights.
